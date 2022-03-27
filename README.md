@@ -1,5 +1,8 @@
 # Python TGA
 
+[![pre-commit](https://github.com/jteppinette/python-tga/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/jteppinette/python-tga/actions/workflows/pre-commit.yml)
+[![test](https://github.com/jteppinette/python-tga/actions/workflows/test.yml/badge.svg)](https://github.com/jteppinette/python-tga/actions/workflows/test.yml)
+
 _A Python package which supports working with TGA, also known as TARGA
 (Truevision Advanced Raster Graphics Adapter), files._
 
